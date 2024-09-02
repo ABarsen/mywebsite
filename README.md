@@ -1,1 +1,1 @@
-this was a trial website I was working on a while back
+this was a static portfoloio website that utilises the HTML ad CSS and was used as a trial
